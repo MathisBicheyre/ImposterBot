@@ -1,0 +1,23 @@
+{
+  "name": "ImposterBot",
+  "version": "1.0.0",
+  "description": "A bot to facilitate organising Among Us games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathisBicheyre/ImposterBot.git"
+  },
+  "keywords": [],
+  "author": "Mathis Bicheyre <mathis.bicheyre@efrei.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MathisBicheyre/ImposterBot/issues"
+  },
+  "homepage": "https://github.com/MathisBicheyre/ImposterBot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
